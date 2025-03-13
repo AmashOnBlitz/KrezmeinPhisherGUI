@@ -7,7 +7,8 @@
 ![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)
 
 ### 🔥 **Simulate phishing awareness campaigns like never before!**
-KrezmeinPhisher GUI is a powerful, beginner-friendly **graphical phishing awareness simulator** designed for **ethical cybersecurity training**. Test and **educate users** about phishing threats by replicating login pages in a **controlled and legal** environment. 
+KrezmeinPhisher GUI is a powerful, **beginner-friendly phishing awareness simulator** for ethical cybersecurity training. Test and educate users about phishing threats by replicating login pages in a controlled and **legal environment**.
+⚠ Warning: This tool is strictly for educational and cybersecurity awareness purposes. Could you not use it for malicious activities? Always obtain permission before simulating phishing pages.
 
 ⚠ **Warning:** This tool is strictly for **educational and cybersecurity awareness purposes**. Do **NOT** use it for malicious activities. Always obtain permission before simulating phishing pages.
 
@@ -19,6 +20,7 @@ KrezmeinPhisher GUI is a powerful, beginner-friendly **graphical phishing awaren
 ![Anonymous](https://img.shields.io/badge/Anonymous-We_Anonymous-red?style=for-the-badge&logo=anon)
 ![Security](https://img.shields.io/badge/Security-Network-orange?style=for-the-badge&logo=wireshark)
 ![Tor](https://img.shields.io/badge/Tor-Dark_Web-purple?style=for-the-badge&logo=torproject)
+<br>
 ✅ **Multi-Platform Support** – Simulates phishing pages for various services.  
 ✅ **Automatic IP Fetching** – Retrieves client public IP automatically.  
 ✅ **GUI-based** – No need for CLI commands; simple and user-friendly.  
@@ -65,8 +67,8 @@ Using it for any illegal activities is strictly prohibited.
 🚀 Ethical hackers, security researchers, and educators can use KrezmeinPhisher legally to train users on phishing threats.
 
 ## **💡 Contributing**
-Want to improve KrezmeinPhisher GUI?
-📌 Feel free to fork the repo, suggest features, or report issues!
+Want to enhance the KrezmeinPhisher GUI?
+📌 You're welcome to fork the repository, suggest new features, or report any issues! 
 📜 License
 🛡 For educational and awareness purposes only. Do not misuse.
 
