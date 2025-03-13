@@ -3,6 +3,8 @@
 [![Windows Support](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/AmashOnBlitz/KrezmeinPhisher-GUI)
 [![License](https://img.shields.io/badge/License-Educational-green)](#)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
+![C++ 20](https://img.shields.io/badge/C%2B%2B-20-orange?style=for-the-badge&logo=c%2B%2B)
+
 
 ### 🔥 **Simulate phishing awareness campaigns like never before!**
 KrezmeinPhisher GUI is a powerful, beginner-friendly **graphical phishing awareness simulator** designed for **ethical cybersecurity training**. Test and **educate users** about phishing threats by replicating login pages in a **controlled and legal** environment. 
