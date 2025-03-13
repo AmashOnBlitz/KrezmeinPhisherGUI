@@ -8,8 +8,6 @@
 
 ### 🔥 **Simulate phishing awareness campaigns like never before!**
 KrezmeinPhisher GUI is a powerful, **beginner-friendly phishing awareness simulator** for ethical cybersecurity training. Test and educate users about phishing threats by replicating login pages in a controlled and **legal environment**.
-⚠ Warning: This tool is strictly for educational and cybersecurity awareness purposes. Could you not use it for malicious activities? Always obtain permission before simulating phishing pages.
-
 ⚠ **Warning:** This tool is strictly for **educational and cybersecurity awareness purposes**. Do **NOT** use it for malicious activities. Always obtain permission before simulating phishing pages.
 
 ---
