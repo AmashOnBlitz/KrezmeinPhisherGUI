@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Educational-green)](#)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 ![C++ 20](https://img.shields.io/badge/C%2B%2B-20-orange?style=for-the-badge&logo=c%2B%2B)
-
+![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)
 
 ### 🔥 **Simulate phishing awareness campaigns like never before!**
 KrezmeinPhisher GUI is a powerful, beginner-friendly **graphical phishing awareness simulator** designed for **ethical cybersecurity training**. Test and **educate users** about phishing threats by replicating login pages in a **controlled and legal** environment. 
@@ -14,6 +14,11 @@ KrezmeinPhisher GUI is a powerful, beginner-friendly **graphical phishing awaren
 ---
 
 ## 🚀 **Features**
+![Hacker](https://img.shields.io/badge/Hacker-Ethical_Hacking-green?style=for-the-badge&logo=hackthebox)
+![Pentesting](https://img.shields.io/badge/Penetration_Testing-Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
+![Anonymous](https://img.shields.io/badge/Anonymous-We_Anonymous-red?style=for-the-badge&logo=anon)
+![Security](https://img.shields.io/badge/Security-Network-orange?style=for-the-badge&logo=wireshark)
+![Tor](https://img.shields.io/badge/Tor-Dark_Web-purple?style=for-the-badge&logo=torproject)
 ✅ **Multi-Platform Support** – Simulates phishing pages for various services.  
 ✅ **Automatic IP Fetching** – Retrieves client public IP automatically.  
 ✅ **GUI-based** – No need for CLI commands; simple and user-friendly.  
