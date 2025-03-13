@@ -52,7 +52,7 @@ KrezmeinPhisher GUI currently supports **awareness simulations** for the followi
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AmashOnBlitz/KrezmeinPhisherGUI.git
-   cd KrezmeinPhisher-GUI
+   cd KrezmeinPhisherGUI
 2. **Run the GUI**
   ```bash
   Just double-click the KrezmeinPhisher.exe to start!
